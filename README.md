@@ -75,11 +75,11 @@ Features:
 
 ### Executive HR Dashboard
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive_HR_Dashboard.png)
+![Executive Dashboard](HR-Analytics-Dashboard/Dashboard%20Screenshots/Executive_HR_Dashboard.png)
 
 ### Employee & Compensation Analysis Dashboard
 
-![Compensation Dashboard](Dashboard%20Screenshots/Employee_Compensation_Analysis.png)
+![Compensation Dashboard](HR-Analytics-Dashboard/Dashboard%20Screenshots/Employee_Compensation_Analysis.png)
 
 ---
 
