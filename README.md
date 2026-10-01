@@ -79,7 +79,7 @@ Features:
 
 ### Employee & Compensation Analysis Dashboard
 
-![Compensation Dashboard](HR-Analytics-Dashboard/Dashboard%20Screenshots/Employee_Compensation_Analysis_1.png)
+![Compensation Dashboard](HR-Analytics-Dashboard/Dashboard%20Screenshots/Employee_Compensation_Analysis.png)
 
 ---
 
